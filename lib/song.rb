@@ -1,5 +1,5 @@
 class Song 
-attr_accessor :itle, :artist 
+attr_accessor :title, :artist 
 end 
 
 song = Song.new 
